@@ -1,0 +1,12 @@
+word1 = input("Enter a noun")
+word2 = input("Enter a verb")
+word3 = input("Enter a verb")
+word4 = input("Enter an adjective")
+word5 = input("Enter an event")
+word6 = input("Enter a verb")
+word7 = input("Enter a plural noun")
+
+print("Once upon a time there was a " + word1 +
+      " who loved to " + word2 + " and " + word3 +
+      ". Until one day when there was a " + word4 +
+      " " + word5 + " and the " + word1 + " had to " + word6 + " up all its " + word7 + ".")
